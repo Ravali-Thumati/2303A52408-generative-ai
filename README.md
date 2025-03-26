@@ -6,3 +6,5 @@ https://github.com/Ravali-Thumati/2303A52408-generative-ai/blob/main/2303A52408_
 https://github.com/Ravali-Thumati/2303A52408-generative-ai/blob/main/2303A52408_3_assi_3.ipynb
 
 https://github.com/Ravali-Thumati/2303A52408-generative-ai/blob/main/2303A52408_4_assi_4.ipynb
+
+https://github.com/Ravali-Thumati/2303A52408-generative-ai/blob/main/2408_assi_9_week_9.ipynb
